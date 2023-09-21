@@ -1,6 +1,6 @@
 --index-url https://download.pytorch.org/whl/cpu
 Jinja2==3.1.2
-Flask==2.3.3
+flask==2.3.3
 mkl-service==2.4.0
 Pillow==10.0.1
 ultralytics==8.0.183

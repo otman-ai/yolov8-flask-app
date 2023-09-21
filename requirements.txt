@@ -1,4 +1,3 @@
 --index-url https://download.pytorch.org/whl/cpu
 Jinja2==3.1.2
-ultralytics==8.0.183
 

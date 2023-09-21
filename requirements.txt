@@ -1,5 +1,5 @@
 --index-url https://download.pytorch.org/whl/cpu
-mkl-service==2.4.0
+mkl-service==2.4
 blinker==1.6.2
 certifi==2023.7.22
 charset-normalizer==3.2.0
